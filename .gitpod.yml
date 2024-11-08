@@ -1,2 +1,2 @@
 tasks:
-   - command: nproc
+   - command: sudo bash data.sh
